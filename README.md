@@ -28,7 +28,7 @@ I am a dedicated and aspiring Software Engineer/Developer! I am always on the lo
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/christopher-ogan/])
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-ogan/)
 
 <!--
 **chris0gan/chris0gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

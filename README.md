@@ -11,7 +11,10 @@ I am a dedicated and aspiring Software Engineer/Developer! I am always on the lo
 - 🌎 Enjoyer of all things Geography related; news, fun facts, education!
 - 🎮🎲 Avid video game player with way too many hours to be proud of on various video games.
 
-  
+## Tech Stack
+[![My SKills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 <!--
 **chris0gan/chris0gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

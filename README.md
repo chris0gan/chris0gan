@@ -12,7 +12,20 @@ I am a dedicated and aspiring Software Engineer/Developer! I am always on the lo
 - 🎮🎲 Avid video game player with way too many hours to be proud of on various video games.
 
 ## Tech Stack and Skills
-[![My SKills](https://skillicons.dev/icons?i=js,py,html,css,r,java,linux,react,svelte,docker,vscode)](https://skillicons.dev)
+[![My SKills](https://skillicons.dev/icons?i=js,py,html,css,r,java,linux,react,svelte,vscode,guthub,gitlab,docker)](https://skillicons.dev)
+
+## 🐣 Current Wanderings
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+## 🏆 Achievements
+
+- 🌟 Purchased my first home near a town I grew up in.
 
 
 <!--

@@ -16,17 +16,19 @@ I am a dedicated and aspiring Software Engineer/Developer! I am always on the lo
 
 ## 🐣 Current Wanderings
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Learning Esri's ArcGIS and Python scripting 
+  - Automating repetitive geoprocessing tasks; data conversion, analysis, and map production.
+  - Customizing GIS workflows utilizing python to change ArcGIS tools for specific requirements.
+  - Learning python's libraries for data management and manipulation. 
+  - Attempting complex spatial analysis and modeling with python and ArcGIS.
 
 ## 🏆 Achievements
 
-- 🌟 Purchased my first home near a town I grew up in.
+- 🌟 Purchased my first home near a town I grew up in (2024)
 
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/christopher-ogan/])
 
 <!--
 **chris0gan/chris0gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

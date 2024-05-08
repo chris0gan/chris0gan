@@ -7,7 +7,7 @@ I am an aspiring Software Engineer/Developer! I love working with my hands and I
 ## 🚀 About Me
 
 - 📄🔍 I am currently working as an Operations Research Analyst.
-- 🖥️ I find buidling computers for family and friends extremely emjoyable and rewarding!🌟
+- 🖥️ I find buidling computers for family and friends extremely emjoyable and rewarding!
 - 🌎 Enjoyer of all things Geography related; news, fun facts, education!
 - 🎮🎲 Avid video game player with way too many hours to be proud of on various video games.
 

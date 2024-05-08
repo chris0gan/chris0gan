@@ -12,7 +12,7 @@ I am a dedicated and aspiring Software Engineer/Developer! I am always on the lo
 - 🎮🎲 Avid video game player with way too many hours to be proud of on various video games.
 
 ## Tech Stack and Skills
-[![My SKills](https://skillicons.dev/icons?i=js,html,css,docker,linux,react,svelte,vscode)](https://skillicons.dev)
+[![My SKills](https://skillicons.dev/icons?i=js,py,html,css,r,java,linux,react,svelte,docker,vscode)](https://skillicons.dev)
 
 
 <!--

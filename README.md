@@ -1,6 +1,6 @@
 #Hi, I'm Chris! 👋
 
-I am a dedicated and aspiring Software Engineer/Developer! I am always on the lookout for learning something new!
+I am an aspiring Software Engineer/Developer! I love working with my hands and I am always on the lookout for learning something new!
 
 ![chris0gan's Stats](https://github-readme-stats.vercel.app/api?username=chris0gan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
